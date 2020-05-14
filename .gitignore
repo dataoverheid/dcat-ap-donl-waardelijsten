@@ -1,0 +1,36 @@
+# IDE
+/.idea/*
+
+# IIS
+/public/web.config
+
+# Git
+!.gitkeep
+
+# Waardelijsten
+/public/adms_changetype.json
+/public/adms_distributiestatus.json
+/public/ckan_license.json
+/public/donl_catalogs.json
+/public/donl_language.json
+/public/donl_license.json
+/public/donl_organization.json
+/public/iana_mediatypes.json
+/public/mdr_filetype_nal.json
+/public/overheid_dataset_status.json
+/public/overheid_frequency.json
+/public/overheid_license.json
+/public/overheid_openbaarheidsniveau.json
+/public/overheid_spatial_gemeente.json
+/public/overheid_spatial_koninkrijksdeel.json
+/public/overheid_spatial_provincie.json
+/public/overheid_spatial_scheme.json
+/public/overheid_spatial_waterschap.json
+/public/overheid_taxonomiebeleidsagenda.json
+
+# Python
+/venv/*
+/__pycache__/*
+*.py[cod]
+pip-log.txt
+pip-delete-this-directory.txt

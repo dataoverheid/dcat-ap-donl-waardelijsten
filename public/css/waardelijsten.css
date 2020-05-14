@@ -1,0 +1,57 @@
+@font-face {
+    font-family: Rijksoverheid Sans;
+    src: url(../fonts/ROsanswebtextregular.ttf);
+}
+
+@font-face {
+    font-family: Rijksoverheid Sans;
+    src: url(../fonts/ROsanswebtextbold.ttf);
+    font-weight: bold;
+}
+
+html,
+body {
+    font-family: "Rijksoverheid Sans", Tahoma, Arial, sans-serif;
+    color: #154273;
+}
+
+a {
+    color: #154273;
+    text-decoration: underline;
+}
+a:hover,
+a:active {
+    color: #111;
+}
+
+.icon {
+    padding-left: 1.25em;
+    background-position: left 50%;
+    background-size: 1em;
+    background-repeat: no-repeat;
+}
+
+.icon-overheid {
+    background-image: url("../icons/overheid_nl.png");
+}
+
+.icon-download {
+    background-image: url("../icons/icon-download.svg");
+}
+
+.bg-light {
+    background-color: #f2f8fc !important;
+}
+
+.list-header,
+.list-footer {
+    background: #e5f1f9;
+}
+
+.card-list {
+    max-width: 350px;
+}
+
+.list-title {
+    font-weight: 700;
+}

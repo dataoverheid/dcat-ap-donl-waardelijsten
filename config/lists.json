@@ -1,0 +1,70 @@
+{
+    "ADMS:Changetype": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_adms_changetype",
+        "target": "adms_changetype.json"
+    },
+    "ADMS:Distributiestatus": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_adms_distributiestatu",
+        "target": "adms_distributiestatus.json"
+    },
+    "DONL:Catalogs": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_donl_catalogs",
+        "target": "donl_catalogs.json"
+    },
+    "DONL:Language": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_donl_language",
+        "target": "donl_language.json"
+    },
+    "DONL:License": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_overheid_license",
+        "target": "donl_license.json"
+    },
+    "DONL:Organization": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_donl_organization",
+        "target": "donl_organization.json"
+    },
+    "IANA:Mediatype": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_iana_mediatypes",
+        "target": "iana_mediatypes.json"
+    },
+    "MDR:Filetype": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_mdr_filetype",
+        "target": "mdr_filetype_nal.json"
+    },
+    "Overheid:DatasetStatus": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_overheid_dataset_stat",
+        "target": "overheid_dataset_status.json"
+    },
+    "Overheid:Frequency": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_overheid_frequency",
+        "target": "overheid_frequency.json"
+    },
+    "Overheid:Openbaarheidsniveau": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_overheid_openbaarheid",
+        "target": "overheid_openbaarheidsniveau.json"
+    },
+    "Overheid:Gemeente": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_overheid_spatial_geme",
+        "target": "overheid_spatial_gemeente.json"
+    },
+    "Overheid:Koninkrijksdeel": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_overheid_spatial_koni",
+        "target": "overheid_spatial_koninkrijksdeel.json"
+    },
+    "Overheid:Provincie": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_overheid_spatial_prov",
+        "target": "overheid_spatial_provincie.json"
+    },
+    "Overheid:SpatialScheme": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_overheid_spatial_sche",
+        "target": "overheid_spatial_scheme.json"
+    },
+    "Overheid:Waterschap": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_overheid_spatial_wate",
+        "target": "overheid_spatial_waterschap.json"
+    },
+    "Overheid:TaxonomieBeleidsagenda": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_overheid_taxonomiebel",
+        "target": "overheid_taxonomiebeleidsagenda.json"
+    }
+}

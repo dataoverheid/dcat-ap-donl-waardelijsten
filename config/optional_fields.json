@@ -1,0 +1,18 @@
+[
+    {
+        "source": "parent",
+        "target": "parent"
+    },
+    {
+        "source": "parent_identifier",
+        "target": "parent"
+    },
+    {
+        "source": "organization_type",
+        "target": "type"
+    },
+    {
+        "source": "name_slug",
+        "target": "slug"
+    }
+]

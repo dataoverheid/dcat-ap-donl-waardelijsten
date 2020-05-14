@@ -1,0 +1,10 @@
+{
+    "Overheid:License": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_overheid_license",
+        "target": "overheid_license.json"
+    },
+    "CKAN:License": {
+        "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_overheid_license",
+        "target": "ckan_license.json"
+    }
+}
