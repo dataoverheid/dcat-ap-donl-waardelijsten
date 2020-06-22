@@ -12,6 +12,7 @@
 /public/adms_distributiestatus.json
 /public/ckan_license.json
 /public/donl_catalogs.json
+/public/donl_distributiontype.json
 /public/donl_language.json
 /public/donl_license.json
 /public/donl_organization.json
