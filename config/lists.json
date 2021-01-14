@@ -27,6 +27,10 @@
         "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_donl_organization",
         "target": "donl_organization.json"
     },
+    "DONL:WOBUitzondering": {
+        "source": "https://dataoverheid.acceptatie.indicia.nl/service/waardelijsten/dcatapdonl_donl_wobuitzondering",
+        "target": "donl_wobuitzondering.json"
+    },
     "IANA:Mediatype": {
         "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_iana_mediatypes",
         "target": "iana_mediatypes.json"
