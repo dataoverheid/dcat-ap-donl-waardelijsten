@@ -12,7 +12,7 @@
         "target": "donl_catalogs.json"
     },
     "DONL:DistributieType": {
-        "source": "https://donl8.acceptatie.indicia.nl/service/waardelijsten/dcatapdonl_donl_distributiontype",
+        "source": "https://dataoverheid.acceptatie.indicia.nl/service/waardelijsten/dcatapdonl_donl_distributiontype",
         "target": "donl_distributiontype.json"
     },
     "DONL:Language": {
@@ -26,6 +26,10 @@
     "DONL:Organization": {
         "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_donl_organization",
         "target": "donl_organization.json"
+    },
+    "DONL:WOBUitzondering": {
+        "source": "https://dataoverheid.acceptatie.indicia.nl/service/waardelijsten/dcatapdonl_donl_wobuitzondering",
+        "target": "donl_wobuitzondering.json"
     },
     "IANA:Mediatype": {
         "source": "https://data.overheid.nl/service/waardelijsten/dcatapdonl_iana_mediatypes",
