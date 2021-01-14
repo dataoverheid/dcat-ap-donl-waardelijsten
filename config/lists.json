@@ -12,7 +12,7 @@
         "target": "donl_catalogs.json"
     },
     "DONL:DistributieType": {
-        "source": "https://donl8.acceptatie.indicia.nl/service/waardelijsten/dcatapdonl_donl_distributiontype",
+        "source": "https://dataoverheid.acceptatie.indicia.nl/service/waardelijsten/dcatapdonl_donl_distributiontype",
         "target": "donl_distributiontype.json"
     },
     "DONL:Language": {
